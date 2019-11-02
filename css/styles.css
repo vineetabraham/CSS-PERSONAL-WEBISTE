@@ -1,0 +1,150 @@
+body{
+margin: 0;
+text-align: center;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-size:1em;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  font-family: 'Courgette', cursive;
+
+
+}
+ h2{
+   font-size: 2.5rem;
+   color: #66BFBF;
+   font-weight: normal;
+   font-family: 'Courgette', cursive;
+ }
+
+ h3{
+   color: #11999E;
+   font-family: 'Courgette', cursive;
+   font-weight: normal;
+ }
+
+hr{
+  border-style: dotted ;
+  border-bottom: none;
+  width: 5%;
+  border-width: 10px;
+  border-color: #DCDCDC	;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: #F6F6FF;
+
+}
+p{
+  line-height: 1.6;
+  word-spacing: 4px;
+  margin-bottom: 0;
+}
+
+.top-container{
+  background-color: #eafbea;
+  margin: 0;
+  padding-top: 100px;
+  position: relative;
+  line-height: 2;
+}
+.top-cloud{
+  height: 100px;
+  width: 300px;
+  position: absolute;
+  right: 200px;
+  top: 18px;
+
+}
+
+.bottom-cloud{
+  height: 100px;
+  width: 300px;
+  position: absolute;
+  left: 200px;
+
+}
+.propic{
+  border-radius: 50%;
+  height: 300px;
+
+}
+
+.profile{
+  padding: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto  ;
+  text-align: left;
+  display: inline-block;
+}
+
+ .comp{
+   border-radius: 50%;
+   height: 200px;
+   float: left;
+   margin-right: 30px;
+ }
+
+.chill{
+  border-radius: 50%;
+  height: 200px;
+  float: right;
+  margin-left: 30px;
+
+}
+
+
+
+
+
+.myButton {
+	box-shadow: 0 11px 16px -4px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Courgette', cursive;
+	font-size:20px;
+	font-weight:normal;
+	padding:10px 13px;
+	text-decoration:none;
+	text-shadow:0 0 0 #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 0 20px;
+}
+
+#copy-right{
+  color: #F6F6FF;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
