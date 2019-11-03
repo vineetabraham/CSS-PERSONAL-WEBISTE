@@ -92,14 +92,14 @@ p{
   display: inline-block;
 }
 
- .comp{
+ .designimage{
    border-radius: 50%;
    height: 200px;
    float: left;
    margin-right: 30px;
  }
 
-.chill{
+.comp{
   border-radius: 50%;
   height: 200px;
   float: right;
